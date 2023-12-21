@@ -1,0 +1,27 @@
+body {
+    background-color: darkslategray;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Century, sans-serif;
+}
+
+.task-title {
+    color: white;
+    font-family: Georgia, sans-serif;
+}
+
+.task-description {
+    color: white;
+    font-family: Georgia, sans-serif;
+}
+
+.btn {
+    width: 120px;
+    height: 20px;
+}
+
